@@ -8,7 +8,7 @@ A mobile-first static PWA for tracking an intense 122-day Winter ARC challenge.
 - Manual step tracking
 - Nutrition target calculator using age/sex/height/weight/activity
 - Water tracker with adjustable target
-- Sleep check-in stored against the previous challenge day
+- Sleep check-in stored against the challenge day
 - Learning notes
 - Progress, streaks, 122-day calendar and history
 - Profile/settings
